@@ -1,4 +1,60 @@
 {
+	"promotions": [
+		{
+			"id": 1,
+			"name": "10% off bulk drinks",
+			"discountType": "percent",
+			"discountAmount": 10,
+			"conditionType": "quantity",
+			"leastCondition": "10",
+			"neededVoucher": false
+		},
+		{
+			"id": 2,
+			"name": "Spending equal or more than 50.00 on Baking/Cooking Ingredients",
+			"discountType": "amount",
+			"discountAmount": 5,
+			"conditionType": "amount",
+			"leastCondition": "50",
+			"neededVoucher": false
+		},
+		{
+			"id": 3,
+			"name": "Spending total of equal or more than 100 and has voucher code",
+			"discountType": "amount",
+			"discountAmount": 20,
+			"conditionType": "amount",
+			"leastCondition": "100",
+			"neededVoucher": true,
+			"voucherCode": "20OFFPROMO"
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Meat & Poultry"
+		},
+		{
+			"id": 2,
+			"name": "Fruit & Vegetables"
+		},
+		{
+			"id": 3,
+			"name": "Drinks"
+		},
+		{
+			"id": 4,
+			"name": "Confectionary & Desserts"
+		},
+		{
+			"id": 5,
+			"name": "Baking/Cooking Ingredients"
+		},
+		{
+			"id": 6,
+			"name": "Miscellaneous Items"
+		}
+	],
 	"products": [
 		{
 			"id": 1,
