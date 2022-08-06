@@ -136,13 +136,6 @@
 			"quantityAvailable": 4
 		},
 		{
-			"id": 11,
-			"productName": "Mars Bar, 6 x 24 x 50g",
-			"category": "Confectionary & Desserts",
-			"price": 42.82,
-			"quantityAvailable": 4
-		},
-		{
 			"id": 12,
 			"productName": "Peppermint Chewing Gum, 6 x 50 x 30g",
 			"category": "Confectionary & Desserts",
