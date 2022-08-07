@@ -7,7 +7,8 @@
 			"discountAmount": 10,
 			"conditionType": "quantity",
 			"leastCondition": 10,
-			"neededVoucher": false
+			"neededVoucher": false,
+			"categoryId": 3
 		},
 		{
 			"id": 2,
@@ -16,7 +17,8 @@
 			"discountAmount": 5,
 			"conditionType": "amount",
 			"leastCondition": 50,
-			"neededVoucher": false
+			"neededVoucher": false,
+			"categoryId": 5
 		},
 		{
 			"id": 3,
